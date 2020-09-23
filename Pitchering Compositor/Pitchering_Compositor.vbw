@@ -1,0 +1,5 @@
+frmMain = 109, 10, 707, 623, , 4, 8, 292, 443, C
+modRefineBorder = 0, 0, 591, 448, C
+clsSoundByte = 88, 11, 675, 556, C
+clsCollectSounds = 61, 25, 644, 462, 
+modAppDeclarations = 132, 174, 719, 614, C
